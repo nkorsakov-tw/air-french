@@ -30,5 +30,7 @@ Une fonctionnalité importante à connaître est la possibilité de créer plusi
 
 ## Appareils
 
-Pour utiliser unTill Air, vous aurez besoin de divers appareils, dont des imprimantes, des terminaux et des tablettes. Ces dispositifs doivent être configurés dans le Back Office avant de pouvoir être utilisés. Les imprimantes et les terminaux sont essentiels pour émettre des reçus et traiter les transactions. Les tablettes sont principalement utilisées par les serveurs, car elles offrent une interface pratique pour suivre les statuts des tables, exécuter les commandes, envoyer des messages au personnel de cuisine avec les demandes des clients, et accepter les paiements. Les tablettes sont spécialement conçues pour travailler avec le POS, permettant aux membres du personnel d'effectuer leurs tâches rapidement et efficacement.
+Pour utiliser unTill Air, vous aurez besoin de divers appareils, dont des imprimantes, des terminaux et des tablettes. Ces appareils doivent être configurés dans le Back Office avant de pouvoir être utilisés. Les imprimantes et les terminaux sont essentiels pour émettre des reçus et traiter les transactions. Les tablettes sont principalement utilisées par les serveurs, car elles offrent une interface pratique pour suivre les états des tables, exécuter les commandes, envoyer des messages au personnel de cuisine avec les demandes des clients, et accepter les paiements. Les tablettes sont spécialement conçues pour travailler avec le PDV, permettant aux membres du personnel d'effectuer leurs tâches rapidement et efficacement.
+
+Nous espérons que vous trouverez unTill Air intuitif et bénéfique pour votre entreprise !
 
