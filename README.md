@@ -4,7 +4,7 @@ description: Bienvenue à guide d'unTill Air !
 
 # Introduction
 
-Notre objectif est de vous aider à utiliser aTill Air sans effort, que vous débutiez ou que vous soyez déjà familiarisé avec ce logiciel.
+Notre objectif est de vous aider à utiliser unTill Air sans effort, que vous débutiez ou que vous soyez déjà familiarisé avec ce logiciel.
 
 ## À l'intérieur de ce guide:
 
