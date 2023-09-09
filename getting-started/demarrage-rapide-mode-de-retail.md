@@ -6,7 +6,7 @@
 
 Pour commencer à travailler dans le mode de Retail, veuillez suivre ces étapes :
 
-1. Ouvrez [https://air.untill.com/](https://air.untill.com/)[ ](https://air.untill.com/)dans votre navigateur.
+1. Ouvrez [https://air.untill.com/](https://air.untill.com/) dans votre navigateur.
 2. Inscrivez-vous.
 
 * Sélectionnez 'Retail'.
