@@ -1,20 +1,22 @@
 # Démarrage Rapide (Mode de Retail)
 
---------
+***
 
 #### Explorons comment commencer à travailler en mode de Retail :
 
 Pour commencer à travailler dans le mode de Retail, veuillez suivre ces étapes :
 
-1. Ouvrez (https://air.untill.com/) dans votre navigateur. 
+1. Ouvrez [https://air.untill.com/](https://air.untill.com/)[ ](https://air.untill.com/)dans votre navigateur.
 2. Inscrivez-vous.
-- Sélectionnez 'Retail'.
+
+* Sélectionnez 'Retail'.
+
 3. Créez un article 'Mojito sans alcool' :
 
-- Ajoutez une nouvelle 'Catégorie' (Boissons)
-- Ajoutez un nouveau 'Groupe d'aliments' (Non alcoolisé)
-- Ajoutez un nouveau 'Département' (Limonades)
-- Ajoutez un nouvel 'Article' (Mojito sans alcool)
+* Ajoutez une nouvelle 'Catégorie' (Boissons)
+* Ajoutez un nouveau 'Groupe d'aliments' (Non alcoolisé)
+* Ajoutez un nouveau 'Département' (Limonades)
+* Ajoutez un nouvel 'Article' (Mojito sans alcool)
 
 4. Accédez à 'Général' > 'Équipement'.
 5. Ajoutez une imprimante.
