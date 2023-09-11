@@ -14,9 +14,12 @@
 ## Fonctionnalités
 
 * [unTill Payments](fonctionnalites/untill-payments/README.md)
-  * [Demander l'accès à unTill Payments](fonctionnalites/untill-payments/demander-lacces-a-untill-payments.md)
+  * [L'accès d'unTill Payments](fonctionnalites/untill-payments/demander-lacces-a-untill-payments.md)
 * [Page d'Accueil](fonctionnalites/page-daccueil.md)
-* [Espaces](fonctionnalites/espaces.md)
+* [Espaces](fonctionnalites/espaces/README.md)
+  * [Gérer l'Espace](fonctionnalites/espaces/gerer-lespace.md)
+  * [Prix spécial](fonctionnalites/espaces/prix-special.md)
+  * [Attribuer un Article à l'Espace](fonctionnalites/espaces/attribuer-un-article-a-lespace.md)
 * [Général](fonctionnalites/general.md)
 * [Produits](fonctionnalites/produits.md)
 * [Rapports](fonctionnalites/rapports.md)
