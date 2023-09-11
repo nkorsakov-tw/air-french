@@ -10,7 +10,7 @@ Pour débloquer le potentiel complet d'unTill Payments, vous devez vous inscrire
 
 Pour faire une demande, veuillez suivre ces étapes :
 
-1. Accédez à 'Paramètres' > 'Paiements unTill'.
+1. Accédez à 'Paramètres' > 'unTill Payments'.
 2. Cliquez sur 'Demander unTill Payments'.
 
 <figure><img src="../../images/untill-payments.gif" alt=""><figcaption></figcaption></figure>
