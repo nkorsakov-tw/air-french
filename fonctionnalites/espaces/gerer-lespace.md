@@ -6,7 +6,7 @@
 
 Pour gérer votre 'Espace', veuillez suivre ces étapes :
 
-1. Accedéz aux 'Espaces'.
+1. Accedéz à 'Espaces'.
 2. Cliquez sur 'Ajouter un nouvel espace'.
 3. Donnez un nom à votre nouvel 'Espace' et spécifiez le nombre de ses tables.
 
