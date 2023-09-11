@@ -23,4 +23,10 @@ L'une des principales fonctionnalités du Back Office est la possibilité de cr�
 
 ## Fonctions de la page
 
+Sur chaque page du Back Office, vous trouverez des options d'édition simples. Passez le pointeur sur une ligne pour repérer les icônes "modifier" et "supprimer". Cela vous permet de rapidement repérer et effectuer des modifications ou des suppressions sur les éléments de la page.
 
+Votre profil, avec des détails sur les abonnements, les emplacements et la page 'Besoin d'aide ?' avec les coordonnées de votre revendeur ou de votre représentant unTill, n'est qu'à un clic de distance. Appuyez sur l'icône de profil en haut à droite. Cela vous donnera accès à toutes ces informations importantes en un seul endroit.
+
+## Rapports dans le Back Office 
+
+Dans le Back Office, vous avez accès à des rapports détaillés qui fournissent des informations complètes sur les opérations de votre entreprise. Cela vous aide à gérer l'entreprise de manière plus efficace.
