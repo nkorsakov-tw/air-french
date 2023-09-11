@@ -35,3 +35,4 @@ Dans le PDV, vous avez la possibilité de passer d'un 'Espace' à l'autre et de 
 
 {% hint style="info" %}
 **Conseil :** Vous pouvez personnaliser votre 'Espace' dans le Back Office pour obtenir une représentation des tables plus réaliste dans le POS. Pour plus de détails, référez-vous à cette page.
+{% endhint %}
