@@ -1,6 +1,6 @@
 # Introduction au Back Office
 
------
+***
 
 ## Qu'est-ce que le Back Office ?
 
@@ -10,12 +10,12 @@ Le Back Office est le centre de gestion de votre entreprise. Ici, vous configure
 
 Au sein du Back Office, vous pouvez :
 
-- Modifier et ajouter des 'Articles' à votre gamme de 'Produits' selon leur hiérarchie ;
-- Créer des 'Menus' ;
-- Configurer des 'Remises' ;
-- Ajouter des Utilisateurs de PDV (serveurs) et spécifier leurs niveaux d'accès ;
-- Connecter et gérer divers appareils liés à votre compte ;
-- Et bien plus encore...
+* Modifier et ajouter des 'Articles' à votre gamme de 'Produits' selon leur hiérarchie ;
+* Créer des 'Menus' ;
+* Configurer des 'Remises' ;
+* Ajouter des Utilisateurs de PDV (serveurs) et spécifier leurs niveaux d'accès ;
+* Connecter et gérer divers appareils liés à votre compte ;
+* Et plus...
 
 ## Espaces dans le Back Office
 
@@ -27,6 +27,6 @@ Sur chaque page du Back Office, vous trouverez des options d'édition simples. P
 
 Votre profil, avec des détails sur les abonnements, les emplacements et la page 'Besoin d'aide ?' avec les coordonnées de votre revendeur ou de votre représentant unTill, n'est qu'à un clic de distance. Appuyez sur l'icône de profil en haut à droite. Cela vous donnera accès à toutes ces informations importantes en un seul endroit.
 
-## Rapports dans le Back Office 
+## Rapports dans le Back Office
 
 Dans le Back Office, vous avez accès à des rapports détaillés qui fournissent des informations complètes sur les opérations de votre entreprise. Cela vous aide à gérer l'entreprise de manière plus efficace.

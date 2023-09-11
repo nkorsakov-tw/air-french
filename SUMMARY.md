@@ -11,8 +11,17 @@
 * [Introduction au Back Office](getting-started/introduction-au-back-office.md)
 * [Introduction au PDV](getting-started/introduction-au-pdv.md)
 
-## &#x20;Fonctionnalités
+## Fonctionnalités
 
-* [unTill Payments](fonctionnalites/untill-payments.md)
+* [unTill Payments](fonctionnalites/untill-payments/README.md)
+  * [Demander l'accès à unTill Payments](fonctionnalites/untill-payments/demander-lacces-a-untill-payments.md)
 * [Page d'Accueil](fonctionnalites/page-daccueil.md)
 * [Espaces](fonctionnalites/espaces.md)
+* [Général](fonctionnalites/general.md)
+* [Produits](fonctionnalites/produits.md)
+* [Rapports](fonctionnalites/rapports.md)
+* [Propriétaires de l'emplacement](fonctionnalites/proprietaires-de-lemplacement.md)
+* [Modes de vente](fonctionnalites/modes-de-vente.md)
+* [Emplacements](fonctionnalites/emplacements.md)
+* [PDV](fonctionnalites/pdv.md)
+* [Besoin d'aide ?](fonctionnalites/besoin-daide.md)
