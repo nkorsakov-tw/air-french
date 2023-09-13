@@ -9,13 +9,13 @@ Bien que le paiement en espèces soit automatiquement disponible en tant qu'opti
 
 ### Ajouter une nouvelle carte
 
-Pour ajouter une nouvelle carte, suivez ces étapes :
+Pour ajouter une nouvelle carte, veuillez suivre ces étapes :
 
-1. Accédez à "Général" > "Méthodes de paiement".
-2. Cliquez sur "Ajouter une nouvelle méthode de paiement".
+1. Accédez à 'Général' > 'Méthodes de paiement'.
+2. Cliquez sur 'Ajouter une nouvelle méthode de paiement'.
 3. Fournissez un nom pour la nouvelle méthode de paiement et spécifiez son numéro.
-4. Sélectionnez la méthode de paiement "Carte".
-5. Cliquez sur "Continuer".
+4. Sélectionnez la méthode de paiement 'Carte'.
+5. Cliquez sur 'Continuer'.
 
 Ensuite, accédez au Portail de Paiements pour continuer la configuration des méthodes de paiement.
 
