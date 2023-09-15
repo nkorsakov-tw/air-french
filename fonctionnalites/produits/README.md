@@ -1,2 +1,3 @@
 # Produits
 
+Dans unTill Air, la section 'Produits' est organisée de manière hiérarchique. À la base de cette hiérarchie se trouve le niveau de 'l'Article', qui sert de bloc fondamental. À mesure que nous remontons dans la hiérarchie, chaque niveau prend un degré de subordination jusqu'à ce que nous atteignions le niveau supérieur, qui est la 'Catégorie'. Le niveau 'Catégorie' englobe tous les autres niveaux, formant ainsi un système complet et organisé pour la gestion des produits de votre restaurant.
