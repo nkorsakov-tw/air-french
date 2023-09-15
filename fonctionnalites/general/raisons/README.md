@@ -1,2 +1,3 @@
 # Raisons
 
+Dans unTill Air, les 'Raisons' offrent des explications succinctes pour les 'Annulations' et les 'Remises'. Les utilisateurs du PDV peuvent utiliser les 'Raisons' pour informer le propriétaire de l'emplacement de la base de ces actions. Ils peuvent soit saisir un message personnalisé directement dans le PDV, soit choisir parmi les raisons préconfigurées lors de la saisie d'une transaction de 'Remise' ou d'une 'Annulation'. Une fois qu'une 'Remise' ou une 'Annulation' est initiée, ces 'Raisons' sont disponibles dans le PDV.
