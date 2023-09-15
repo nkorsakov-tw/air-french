@@ -28,3 +28,4 @@ Maintenant, vous pouvez ajouter une nouvelle tablette à la place de l'ancienne.
 
 {% hint style="info" %}
 Pour plus de détails sur l'ajout d'un nouvel appareil, [référez-vous à cette page](ajouter-un-appareil.md).
+{% endhint %}
