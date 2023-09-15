@@ -1,2 +1,3 @@
 # Équipement
 
+Dans le Back Office unTill Air, la section 'Équipement' vous permet de configurer l'installation technique de votre restaurant. Elle permet aux propriétaires d'établissements d'intégrer des appareils, notamment des imprimantes et des terminaux. Les imprimantes sont utilisées pour l'impression de reçus, de commandes et de rapports. Les terminaux vous permettent d'accepter les paiements des clients. De plus, vous pouvez connecter des tablettes qui sont utiles pour la gestion des tables.
