@@ -19,7 +19,7 @@ Dans le PDV, les serveurs peuvent utiliser une variété de fonctionnalités con
 
 ## Navigation dans le PDV
 
-L'interface du PDV a des boutons des deux côtés, à gauche et à droite. Ces boutons facilitent la navigation entre les sections telles que la 'Page d'accueil' ('Espace'), 'Manager', 'Commande', et 'Rapports'. La barre latérale droite, en particulier, offre une gamme de fonctionnalités conçues pour effectuer des actions spécifiques avec la commande.
+L'interface du PDV possède des boutons à la fois sur le côté gauche et le côté droit. Les boutons du côté gauche visent à améliorer la navigation entre les sections telles que la 'Page d'Accueil' ('Espace'), 'Manager', 'Commande' et 'Rapports'. La barre latérale droite propose une gamme de fonctionnalités conçues pour effectuer des actions spécifiques avec la commande.
 
 #### Exemples de ces fonctionnalités :
 
