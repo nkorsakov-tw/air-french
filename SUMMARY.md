@@ -56,7 +56,7 @@
     * [Utiliser les Modificateurs](fonctionnalites/produits/modificateurs/utiliser-les-modificateurs.md)
   * [Menus](fonctionnalites/produits/menus/README.md)
     * [Gérer les Menus](fonctionnalites/produits/menus/gerer-les-menus.md)
-    * [Utiliser les Modificateurs](fonctionnalites/produits/menus/utiliser-les-modificateurs.md)
+    * [Utiliser les Menues](fonctionnalites/produits/menus/utiliser-les-modificateurs.md)
   * [Offre combinée](fonctionnalites/produits/offre-combinee/README.md)
     * [Gérer l'Offre combinée](fonctionnalites/produits/offre-combinee/gerer-loffre-combinee.md)
     * [Utiliser l'offre combinée](fonctionnalites/produits/offre-combinee/utiliser-loffre-combinee.md)
