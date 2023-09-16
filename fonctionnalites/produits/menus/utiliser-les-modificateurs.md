@@ -12,7 +12,7 @@ Pour utiliser un 'Menu' dans le PDV, suivez ces étapes :
 
 {% hint style="warning" %}
 **Remarque :** Vous ne pouvez ignorer que le 'Groupe d'éléments' désigné comme 'autorisation d'ignorer'.
-{$ endhint %}
+{% endhint %}
 
 4. Vous ne pouvez choisir qu'un produit dans chaque 'Groupe d'éléments'.
 5. Cliquez sur le bouton 'Ok' pour confirmer la commande pour n'importe quel 'Groupe d'éléments'.
