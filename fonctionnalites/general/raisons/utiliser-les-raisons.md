@@ -20,7 +20,7 @@ Pour commencer à utiliser les 'Raisons' dans le PDV, veuillez suivre ces étape
 {% tab title="Pour accorder une remise" %}
 
 - Cliquez sur un article spécifique de la commande et appuyez sur le bouton 'Remise'.
-- Sélectionnez la 'Cause de la remise' en utilisant la 'Raison' qui a été récemment créée dans le Back Office.
+- Sélectionnez la 'Raison de la remise' en utilisant la 'Raison' qui a été récemment créée dans le Back Office.
 - Confirmez cette action en cliquant sur 
 {% endtab %}
 {% endtabs %}
