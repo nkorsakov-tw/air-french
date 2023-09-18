@@ -1,6 +1,6 @@
 # Modes de vente
 
----------
+***
 
 ## Différences entre les modes de vente
 
@@ -19,7 +19,7 @@ En revanche, si vous gérez un restaurant avec des 'Espaces' et des tables dési
 Pour utiliser le 'mode de vente' et accéder à toutes les fonctionnalités du système PDV, il est essentiel d'ajouter et de connecter vos appareils, en particulier les tablettes, à votre compte.
 
 {% hint style="info" %}
-Pour des instructions détaillées sur la façon d'ajouter vos appareils à la liste, [référez-vous à cette page](general/equipement/ajouter-un-appareil.md).
+Pour des instructions détaillées sur la façon d'ajouter vos appareils à la liste, [référez-vous à cette page](../general/equipement/ajouter-un-appareil.md).
 {% endhint %}
 
 ## Modifiez votre mode de vente
