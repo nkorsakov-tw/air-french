@@ -2,7 +2,7 @@
 
 ---------
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Qui peut utiliser cette fonctionnalité ?</strong></td><td><p><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:green;">Propriétaire de l'Emplacement</mark></p><p><span data-gb-custom-inline data-tag="emoji" data-code="2714">✔</span><mark style="color:orange;">Utilisateur du PDV</mark></p></td><td></td></tr></tbody></table>
+c
 
 ## Configuration des périodes
 
