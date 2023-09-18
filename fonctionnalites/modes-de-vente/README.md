@@ -22,7 +22,7 @@ Pour utiliser le 'mode de vente' et accéder à toutes les fonctionnalités du s
 Pour des instructions détaillées sur la façon d'ajouter vos appareils à la liste, [référez-vous à cette page](../general/equipement/ajouter-un-appareil.md).
 {% endhint %}
 
-## Modifiez votre mode de vente
+## Modifier votre mode de vente
 
 Pour modifier votre 'mode de vente' actif en modifiant les paramètres de votre tablette, veuillez suivre ces étapes :
 
