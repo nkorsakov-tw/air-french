@@ -1,0 +1,2 @@
+# Diviser la commande
+

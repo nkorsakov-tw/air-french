@@ -95,6 +95,7 @@
   * [Annulation](fonctionnalites/pdv/annulation.md)
   * [Table de transfert](fonctionnalites/pdv/table-de-transfert.md)
   * [Ajouter des pourboires](fonctionnalites/pdv/ajouter-des-pourboires.md)
+  * [Diviser la commande](fonctionnalites/pdv/diviser-la-commande.md)
   * [Répéter des Articles](fonctionnalites/pdv/repeter-des-articles.md)
   * [Légende des couleurs de table](fonctionnalites/pdv/legende-des-couleurs-de-table.md)
   * [Ensemble d'actions](fonctionnalites/pdv/ensemble-dactions.md)
