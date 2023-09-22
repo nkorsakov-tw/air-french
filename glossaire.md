@@ -115,8 +115,11 @@ Ce type de 'Remise' a une durée spécifique, après laquelle elle expire.
 
 **Légende des couleurs de table (PDV)**
 
-
 Fait référence à l'état d'une table, qui peut être influencé par des facteurs tels que la durée de l'occupation par les clients ou le Rang en cours.
+
+**Les TVA (Back Office)**
+
+Cela fait référence au processus de configuration de la TVA pour différents Groupes d'aliments.
 
 ## M
 
@@ -174,12 +177,37 @@ Ce bouton vous permet d'offrir à votre client des 'Modificateurs' payants dans 
 
 ## R
 
-Raisons de la remise (Back Office & PDV)
-Rapport Financier (Back Office)
-Rangs (Back Office & PDV)
-Rang suivant (PDV)
-Rapports (Back Office)
-Raisons d'Annulation (Back Office & PDV)
+**Raisons de la remise (Back Office & PDV)**
+
+En plus du nom de la 'Remise', vous pouvez également spécifier les 'Raisons' pour accorder la remise à votre client (par exemple : Anniversaire du client).
+
+**Rapport Financier (Back Office)**
+
+Ce type de rapport fournit des informations détaillées sur le chiffre d'affaires par groupes d'aliments, les paiements par diverses méthodes (en espèces et par carte), la TVA, les annulations et les remises dans votre PDV pour la période sélectionnée.
+
+**Rangs (Back Office & PDV)**
+
+Les Rangs sont associés à une séquence pour servir les plats. Chaque Article est assigné à un 'Service' spécifique, indiquant l'heure prévue pour son service (par exemple : Entrées > Plat principal > Dessert).
+
+**Rang suivant (PDV)**
+
+Ce bouton permet de sauter le prochain Rang si nécessaire, et dans ce cas, le serveur peut utiliser le bouton 'Rang suivant'.
+
+**Rapports (Back Office)**
+
+Fait référence à la fourniture d'un suivi détaillé du flux de travail du restaurant aux Propriétaires d'Emplacement. Les rapports peuvent être trouvés dans une section dédiée et comprennent différents types.
+
+**Rapport X (Back Office)**
+
+Fait référence à un rapport personnalisable qui peut être généré et envoyé depuis le PDV.
+
+**Rapport Z (Back Office)**
+
+Fait référence à un rapport fixe qui peut être généré et envoyé depuis le PDV. Ce type de rapport est configuré à la fin d'un service ou d'une journée de travail.
+
+**Raisons d'Annulation (Back Office & PDV)**
+
+Cela fait référence à l'exigence pour un serveur de fournir une explication lors de l'annulation d'un article de la commande confirmée.
 
 ## S
 
@@ -187,16 +215,25 @@ Raisons d'Annulation (Back Office & PDV)
 
 ## T
 
-Tickets (Back Office)
-Transfert de table (PDV)
+**Tickets (Back Office)**
+
+Fait référence au processus de gestion des modèles utilisés pour générer des reçus et des rapports.
+
+**Transfert de table (PDV)**
+
+Ce bouton permet au serveur de satisfaire la demande du client de changer de table pour une commande.
 
 ## U
 
-Utilisateur du PDV
+**Utilisateur du PDV**
+
+Fait référence à un employé qui interagit avec le système de Point de Vente et gère diverses tâches liées aux commandes, aux ventes, aux paiements et aux transactions.
 
 ## V
 
-Les TVA (Back Office)
+*Aucun données*
+
+
 
 ## W
 
@@ -204,7 +241,8 @@ Les TVA (Back Office)
 
 ## X
 
-Rapport X (Back Office)
+*Aucun données*
+
 
 ## Y
 
@@ -212,5 +250,5 @@ Rapport X (Back Office)
 
 ## Z
 
-Rapport Z (Back Office)
+*Aucun données*
 
